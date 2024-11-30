@@ -1,6 +1,4 @@
-package template;
-
-import java.io.InputStream;
+package ch03_template;
 
 public abstract class AbstractDisplay {
     public final void display(){

@@ -1,4 +1,4 @@
-package template;
+package ch03_template;
 
 public class StringDisplay extends AbstractDisplay{
     @Override
