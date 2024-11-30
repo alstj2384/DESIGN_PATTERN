@@ -1,8 +1,8 @@
-package factory.factory_pattern;
+package ch04_factory.factory_pattern;
 
-import factory.factory_pattern.framework.Factory;
-import factory.factory_pattern.framework.Product;
-import factory.factory_pattern.idcard.IDCardFactory;
+import ch04_factory.factory_pattern.framework.Factory;
+import ch04_factory.factory_pattern.framework.Product;
+import ch04_factory.factory_pattern.idcard.IDCardFactory;
 
 public class Main {
     public static void main(String[] args) {
