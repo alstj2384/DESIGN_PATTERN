@@ -1,4 +1,4 @@
-package adapter.class_pattern;
+package ch02_adapter.class_pattern;
 
 public interface Print {
     public void printWeak();

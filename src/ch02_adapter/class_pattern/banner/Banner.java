@@ -1,4 +1,4 @@
-package adapter.class_pattern.banner;
+package ch02_adapter.class_pattern.banner;
 
 public class Banner {
     private String s;

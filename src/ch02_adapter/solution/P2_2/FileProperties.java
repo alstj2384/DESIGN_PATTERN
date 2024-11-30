@@ -1,4 +1,4 @@
-package adapter.solution.P2_2;
+package ch02_adapter.solution.P2_2;
 
 import java.io.*;
 import java.util.Properties;

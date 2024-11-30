@@ -1,7 +1,7 @@
-package adapter.instance_pattern;
+package ch02_adapter.instance_pattern;
 
 
-import adapter.instance_pattern.banner.PrintBannerAdapter;
+import ch02_adapter.instance_pattern.banner.PrintBannerAdapter;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package adapter.instance_pattern.banner;
+package ch02_adapter.instance_pattern.banner;
 
-import adapter.instance_pattern.Print;
+import ch02_adapter.instance_pattern.Print;
 
 public class PrintBannerAdapter extends Print {
 

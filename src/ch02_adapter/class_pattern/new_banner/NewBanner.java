@@ -1,4 +1,4 @@
-package adapter.class_pattern.new_banner;
+package ch02_adapter.class_pattern.new_banner;
 
 public class NewBanner {
     // weak와 strong을 소문자, 대문자로 구분한다고 가정

@@ -1,6 +1,6 @@
-package adapter.class_pattern.new_banner;
+package ch02_adapter.class_pattern.new_banner;
 
-import adapter.class_pattern.Print;
+import ch02_adapter.class_pattern.Print;
 
 public class PrintNewBannerAdapter extends NewBanner implements Print {
 
